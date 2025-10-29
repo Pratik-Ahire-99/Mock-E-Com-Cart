@@ -8,7 +8,7 @@ Simple full-stack shopping cart app for Vibe Commerce screening.
 - REST APIs: GET/POST/DELETE/PATCH endpoints for products & cart + checkout (mock)
 
 ## Run locally Clone the repository
-## bash
+### bash
 git clone https://github.com/Pratik-Ahire-99/Mock-E-Com-Cart.git
 cd Mock-E-Com-Cart
 
@@ -33,22 +33,22 @@ cd Mock-E-Com-Cart
 - 1–2 min demo video
 
 ## 📸 Screenshots
-# 🏠 Home Page
+### 🏠 Home Page
 - Mock-E-Com-Cart\screenshots\Home.png
 
-# 🛒 Cart Page
+### 🛒 Cart Page
 - Mock-E-Com-Cart\screenshots\cart.png
 
-# Check Out Form
+### Check Out Form
 - Mock-E-Com-Cart\screenshots\checkoutForm.png
 
-# Recipt 
+### Recipt 
 - Mock-E-Com-Cart\screenshots\submitForm.png
 
-### 🎥 Demo Video
+## 🎥 Demo Video
 - https://youtu.be/i_DX1ycEejA
 
-### 🧾 API Endpoints
+## 🧾 API Endpoints
 
 | Method | Endpoint        | Description                          |
 | ------ | --------------- | ------------------------------------ |
@@ -59,7 +59,7 @@ cd Mock-E-Com-Cart
 | DELETE | `/api/cart/:id` | Remove item from cart                |
 | POST   | `/api/checkout` | Complete checkout and return receipt |
 
-### 🧑‍💻 Author
+## 🧑‍💻 Author
 
 👤 Pratik Ahire
 📧 Feel free to connect for collaboration or feedback!
